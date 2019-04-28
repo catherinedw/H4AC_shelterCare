@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "432119133740",
+    "firebase_url": "https://hfac-sc.firebaseio.com",
+    "project_id": "hfac-sc",
+    "storage_bucket": "hfac-sc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432119133740:android:577cf769cfc420cc",
+        "android_client_info": {
+          "package_name": "com.example.catwh.h4ac_sheltercare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432119133740-cb00c08kvj8votgc1onslrr6m9empg9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJNJEPz4oZY9nSo5RaFHl2nqw5PDm5zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432119133740-cb00c08kvj8votgc1onslrr6m9empg9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
